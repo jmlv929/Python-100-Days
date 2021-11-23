@@ -19,7 +19,7 @@ def palindrome(num):
     else:
         return "这个数不是一个回文数"
 
-print(palindrome(1239321))
+print(palindrome(12393291))
 
 #Python中，用 def 语句创建函数时，可以用 return 语句指定应该返回的值，
 #该返回值可以是任意类型。需要注意的是，return 语句在同一函数中可以出现多次，
